@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <app version="1">
+    <name>Wiimmfi Patcher</name>
+    <coder>MrBean35000vr/Chadderz</coder>
+    <version>v0.6</version>
+    <release_date>20140519000000</release_date>
+    <short_description>Play Wii games online via Wiimmfi!</short_description>
+    <long_description>This app will attempt to patch the inserted disc so that it can use Wiimmfi, a replacement online service following the shutdown of Nintendo WFC. Wiimmfi was created primarily by Wiimm and Leseratte, with various input and help from many people who wanted to save Nintendo WFC. This app is heavily based off BrainSlug by Chadderz.
+
+See http://wiimmfi.de/stat?all=1 for a list of compatible games!
+You may need to create a new friend code on certain games, if you receive Error Code 60000 when attempting to connect.
+See http://wiimmfi.de/error for Error Codes.
+
+Usage instructions:
+
+- Insert disc
+- Wait a few moments
+- Play game
+
+This app may be made prettier at some point, but for now, enjoy the console.</long_description>
+  </app>
